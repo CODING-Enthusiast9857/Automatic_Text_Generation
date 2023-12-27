@@ -1,5 +1,13 @@
 # Automatic Text Generation
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-2.4.3-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.7.0-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3.6.2-5E8B7E?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-3.0-09a3d5?style=flat-square&logo=spacy&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B8BF5?logo=deeplearning.ai&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-0098D4?logo=neuralnetworks&logoColor=white)
+
 ![Text Generation](https://github.com/CODING-Enthusiast9857/Automatic_Text_Generation/blob/main/text_generation.png)
 
 ## Overview
