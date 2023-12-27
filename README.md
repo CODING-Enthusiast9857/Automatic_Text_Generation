@@ -1,6 +1,6 @@
 # Automatic Text Generation
 
-![Text Generation]()
+![Text Generation](https://github.com/CODING-Enthusiast9857/Automatic_Text_Generation/blob/main/text_generation.png)
 
 ## Overview
 
