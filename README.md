@@ -59,7 +59,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/CODING_Enthusiast9857/Automatic-Text-Generation.git
+    git clone https://github.com/CODING_Enthusiast9857/Automatic_Text_Generation.git
     ```
 
 2. Install the required dependencies:
